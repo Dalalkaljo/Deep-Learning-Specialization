@@ -11,8 +11,8 @@ The goal is to serve as an educational reference that progresses from basic prin
 
 4- types of neural networks
 
-5- neural network programming fundementals
+5- neural network programming fundamentals
 
 6- understanding logistic regression
 
-7- loss function
+7- loss function in logistic regression
