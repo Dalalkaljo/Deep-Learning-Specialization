@@ -16,3 +16,5 @@ The goal is to serve as an educational reference that progresses from basic prin
 6- understanding logistic regression
 
 7- loss function in logistic regression
+
+8- Calculating Derivatives to Update the Parameters (B, W₁, W₂)
